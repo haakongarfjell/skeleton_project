@@ -5,7 +5,7 @@
 #include "driver/elevio.h"
 
 //test
-//test2
+
 
 int main(){
     elevio_init();
